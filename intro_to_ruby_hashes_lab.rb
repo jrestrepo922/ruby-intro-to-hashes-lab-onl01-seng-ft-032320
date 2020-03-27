@@ -2,10 +2,8 @@ require 'pry'
 
 def new_hash
   hash = {}
-  binding.pry
 end
 
-new_hash
 
 def actor
   actor = {
