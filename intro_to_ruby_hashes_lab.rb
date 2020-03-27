@@ -1,5 +1,5 @@
 require 'pry'
-binding.pry
+
 def new_hash
   hash = {}
   
