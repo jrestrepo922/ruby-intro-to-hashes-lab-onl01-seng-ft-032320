@@ -2,7 +2,7 @@ require 'pry'
 
 def new_hash
   hash = {}
-  binding.pry
+  
 end
 
 def actor
